@@ -1,0 +1,11 @@
+{
+    "name": "moose",
+    "authors": ["Jordan Fitzgerald"],
+    "copyright": "Copyright © 2017, Jordan Fitzgerald",
+    "license": "MIT",
+
+    "targetType": "executable",
+    "targetPath": "bin",
+
+    "mainSourceFile": "src/main.d"
+}
