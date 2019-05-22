@@ -5,7 +5,7 @@ Moose is a scripting language tree-walk interpreter. It can be compiled with `du
 ##### Code example
 
 ```Ruby
-// structs.moo
+# structs.moo
 Dog => {
     name:  "";
     color: "";
